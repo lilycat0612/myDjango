@@ -3,11 +3,12 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 # import unittest
 import time
-from django.test import LiveServerTestCase
+#from django.test import LiveServerTestCase
+from django.contrib.staticfiles.testing import StaticLiveServerTestCase
 
 
-class NewVisitorTest(LiveServerTestCase):
-
+#class NewVisitorTest(LiveServerTestCase):
+class NewVisitorTest(StaticLiveServerTestCase):
     def setUp(self):
         self.browser = webdriver.Firefox()
         #self.browser.implicitly_wait(3)
@@ -73,14 +74,14 @@ class NewVisitorTest(LiveServerTestCase):
         self.assertNotIn('Buy peacock feathers',page_text)
         self.assertIn('Buy milk',page_text)
         
-#             
-#     def test_layout_and_styling(self):
-#     error msg needed to fix:new_loc = {"x": round(old_loc['x']),TypeError: 'NoneType' object is not subscriptable
+             
+    def test_layout_and_styling(self):
+    #error msg needed to fix:new_loc = {"x": round(old_loc['x']),TypeError: 'NoneType' object is not subscriptable
 
 #         self.browser.get(self.live_server_url)
 #         self.browser.set_window_size(1024,768)
 #         time.sleep(10)
-#                
+#                 
 #         inputbox=self.browser.find_element_by_id('id_new_item')
 #         self.assertAlmostEqual(inputbox.location['x']+inputbox.size['width']/2, 512, delta=5)
         
