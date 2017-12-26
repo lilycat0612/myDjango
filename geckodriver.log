@@ -1,0 +1,2504 @@
+1514272310341	geckodriver	INFO	Listening on 127.0.0.1:63671
+1514272312266	mozprofile::profile	INFO	Using profile path C:\Users\lily\AppData\Local\Temp\rust_mozprofile.9P3iZQXltgBQ
+1514272312266	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1514272312313	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63677
+1514272315827	Marionette	INFO	Listening on port 63677
+1514272316986	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+1514272319109	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1514272319111	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://wx-assistant-at-mozillaonline-dot-com/wxassistant/lib/main.js, line 67: JavaScript 1.6's for-each-in loops are deprecated; consider using ES6 for-of instead
+1514272361748	Marionette	INFO	New connections will no longer be accepted
+[Child 6344] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2152
+1514272362193	geckodriver	INFO	Listening on 127.0.0.1:63755
+1514272364206	mozprofile::profile	INFO	Using profile path C:\Users\lily\AppData\Local\Temp\rust_mozprofile.02AeoS6Ilk2I
+1514272364221	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1514272364237	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63762
+1514272367015	Marionette	INFO	Listening on port 63762
+1514272367853	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+1514272369399	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1514272369401	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://wx-assistant-at-mozillaonline-dot-com/wxassistant/lib/main.js, line 67: JavaScript 1.6's for-each-in loops are deprecated; consider using ES6 for-of instead
+1514272411203	Marionette	INFO	New connections will no longer be accepted
+[Child 10780] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2152
+1514272411809	geckodriver	INFO	Listening on 127.0.0.1:63824
+1514272413845	mozprofile::profile	INFO	Using profile path C:\Users\lily\AppData\Local\Temp\rust_mozprofile.NquQtgoiiOKJ
+1514272413861	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1514272413876	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63832
+1514272416440	Marionette	INFO	Listening on port 63832
+1514272417235	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+1514272418669	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1514272418670	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://wx-assistant-at-mozillaonline-dot-com/wxassistant/lib/main.js, line 67: JavaScript 1.6's for-each-in loops are deprecated; consider using ES6 for-of instead
+1514272419600	Marionette	INFO	New connections will no longer be accepted
+[Child 9604] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2152
+1514272531200	geckodriver	INFO	Listening on 127.0.0.1:63908
+1514272533230	mozprofile::profile	INFO	Using profile path C:\Users\lily\AppData\Local\Temp\rust_mozprofile.Hzv6U86C1pas
+1514272533230	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1514272533261	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63916
+1514272535433	Marionette	INFO	Listening on port 63916
+1514272536519	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+1514272537595	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1514272537597	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://wx-assistant-at-mozillaonline-dot-com/wxassistant/lib/main.js, line 67: JavaScript 1.6's for-each-in loops are deprecated; consider using ES6 for-of instead
+1514272606635	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1514273168688	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1514273285403	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+console.error: 
+  Message: ReferenceError: reason is not defined
+  Stack:
+    exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:79:9
+unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:73:3
+onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:99:5
+Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+unload@resource://gre/modules/commonjs/toolkit/loader.js:956:3
+shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/lily/AppData/Local/Temp/rust_mozprofile.Hzv6U86C1pas/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4968:9
+this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2924:15
+
+ManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+1514272605503	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1514272605504	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://wx-assistant-at-mozillaonline-dot-com/wxassistant/lib/main.js, line 67: JavaScript 1.6's for-each-in loops are deprecated; consider using ES6 for-of instead
+1514272617406	Marionette	INFO	New connections will no longer be accepted
+[Child 10344] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2152
+1514272618075	geckodriver	INFO	Listening on 127.0.0.1:64064
+1514272620083	mozprofile::profile	INFO	Using profile path C:\Users\lily\AppData\Local\Temp\rust_mozprofile.TEooLgVouoIq
+1514272620091	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1514272620108	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64071
+1514272622424	Marionette	INFO	Listening on port 64071
+1514272623289	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+1514272624703	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1514272624705	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://wx-assistant-at-mozillaonline-dot-com/wxassistant/lib/main.js, line 67: JavaScript 1.6's for-each-in loops are deprecated; consider using ES6 for-of instead
+1514272626178	Marionette	INFO	New connections will no longer be accepted
+[Child 2596] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2152
+1514272856754	geckodriver	INFO	Listening on 127.0.0.1:64233
+1514272858800	mozprofile::profile	INFO	Using profile path C:\Users\lily\AppData\Local\Temp\rust_mozprofile.TCFN8mexJHPs
+1514272858815	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1514272858831	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64239
+1514272860977	Marionette	INFO	Listening on port 64239
+1514272862101	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+1514272863208	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1514272863210	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://wx-assistant-at-mozillaonline-dot-com/wxassistant/lib/main.js, line 67: JavaScript 1.6's for-each-in loops are deprecated; consider using ES6 for-of instead
+1514272865789	Marionette	INFO	New connections will no longer be accepted
+[Child 11020] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2152
+1514272866192	geckodriver	INFO	Listening on 127.0.0.1:64263
+1514272868180	mozprofile::profile	INFO	Using profile path C:\Users\lily\AppData\Local\Temp\rust_mozprofile.GQw7eYqG1TTs
+1514272868188	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1514272868203	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64273
+1514272870427	Marionette	INFO	Listening on port 64273
+1514272871428	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+1514272872699	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1514272872701	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://wx-assistant-at-mozillaonline-dot-com/wxassistant/lib/main.js, line 67: JavaScript 1.6's for-each-in loops are deprecated; consider using ES6 for-of instead
+1514272873556	Marionette	INFO	New connections will no longer be accepted
+[Child 7520] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2152
+1514273007790	geckodriver	INFO	Listening on 127.0.0.1:64363
+1514273009805	mozprofile::profile	INFO	Using profile path C:\Users\lily\AppData\Local\Temp\rust_mozprofile.BkvRGME594x3
+1514273009821	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1514273009837	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64369
+1514273011936	Marionette	INFO	Listening on port 64369
+1514273013020	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+1514273014093	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1514273014094	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://wx-assistant-at-mozillaonline-dot-com/wxassistant/lib/main.js, line 67: JavaScript 1.6's for-each-in loops are deprecated; consider using ES6 for-of instead
+1514273015826	Marionette	INFO	New connections will no longer be accepted
+[Child 7988] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2152
+1514273016109	geckodriver	INFO	Listening on 127.0.0.1:64399
+1514273018120	mozprofile::profile	INFO	Using profile path C:\Users\lily\AppData\Local\Temp\rust_mozprofile.Zqxt3OJz0iuZ
+1514273018129	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1514273018143	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64409
+1514273020473	Marionette	INFO	Listening on port 64409
+1514273021376	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+1514273022642	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1514273022645	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://wx-assistant-at-mozillaonline-dot-com/wxassistant/lib/main.js, line 67: JavaScript 1.6's for-each-in loops are deprecated; consider using ES6 for-of instead
+1514273023452	Marionette	INFO	New connections will no longer be accepted
+[Child 7256] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2152
+1514273213513	geckodriver	INFO	Listening on 127.0.0.1:64584
+1514273215589	mozprofile::profile	INFO	Using profile path C:\Users\lily\AppData\Local\Temp\rust_mozprofile.pzrSxNjRvZQO
+1514273215605	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1514273215620	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64590
+1514273217672	Marionette	INFO	Listening on port 64590
+1514273218805	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+1514273219809	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1514273219811	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://wx-assistant-at-mozillaonline-dot-com/wxassistant/lib/main.js, line 67: JavaScript 1.6's for-each-in loops are deprecated; consider using ES6 for-of instead
+1514273262124	Marionette	INFO	New connections will no longer be accepted
+[Child 8416] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2152
+1514273262550	geckodriver	INFO	Listening on 127.0.0.1:64659
+1514273264610	mozprofile::profile	INFO	Using profile path C:\Users\lily\AppData\Local\Temp\rust_mozprofile.oh2VpjDImCAi
+1514273264626	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1514273264642	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64666
+1514273266758	Marionette	INFO	Listening on port 64666
+1514273267899	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+1514273269184	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1514273269186	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://wx-assistant-at-mozillaonline-dot-com/wxassistant/lib/main.js, line 67: JavaScript 1.6's for-each-in loops are deprecated; consider using ES6 for-of instead
+1514273310946	Marionette	INFO	New connections will no longer be accepted
+[Child 10752] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2152
+1514273311418	geckodriver	INFO	Listening on 127.0.0.1:64718
+1514273313465	mozprofile::profile	INFO	Using profile path C:\Users\lily\AppData\Local\Temp\rust_mozprofile.JfkfX5XaA7kc
+1514273313465	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1514273313481	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64726
+1514273315751	Marionette	INFO	Listening on port 64726
+1514273316722	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1788:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1821:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1542:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+1514273318093	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1514273318096	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://wx-assistant-at-mozillaonline-dot-com/wxassistant/lib/main.js, line 67: JavaScript 1.6's for-each-in loops are deprecated; consider using ES6 for-of instead
+1514273319316	Marionette	INFO	New connections will no longer be accepted
+[Child 5776] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2152
